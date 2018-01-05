@@ -1,2 +1,0 @@
-This is the new file in master branch.
-This shall be available in all the created branches.
